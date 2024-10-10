@@ -33,3 +33,6 @@ ccds
 `source .venv/Scripts/activate`
 ### Bước 6 Cài đặt các gói liên quan
 `pip install -r requirements.txt`
+
+### Bước 7 chạy
+`streamlit run Chart_With_Your_Data.py`
